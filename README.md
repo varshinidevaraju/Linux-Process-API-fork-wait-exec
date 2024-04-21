@@ -77,6 +77,7 @@ exit(0);
 
 ##OUTPUT
 
+![image](https://github.com/varshinidevaraju/Linux-Process-API-fork-wait-exec/assets/144870750/25934605-3051-4d61-a392-756d655e24fc)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
@@ -114,7 +115,7 @@ int main()
 
 ##OUTPUT
 
-![Uploading image.png…]()
+https://private-user-images.githubusercontent.com/148959215/317284245-23d6b25d-b9f2-4c7d-b336-448ce857fb8e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM3MjA0MzAsIm5iZiI6MTcxMzcyMDEzMCwicGF0aCI6Ii8xNDg5NTkyMTUvMzE3Mjg0MjQ1LTIzZDZiMjVkLWI5ZjItNGM3ZC1iMzM2LTQ0OGNlODU3ZmI4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyMVQxNzIyMTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YWI0MzY2MDE2MDNhMTU4NjBmNzNjZjM0MmU1ZTM2MGI3ZGM4ZTNiMTM1ODg5ZjU2NTVjYWJmZGFiYzA3MTAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.p2o0-00KB0MEKowYWWSUy1ExJG2OiZnAnFHsIsG6oA8
 
 
 
